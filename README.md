@@ -1,3 +1,3 @@
-# tiktok-game
-Juego de tiktok
-Juego de tik tok hecho python usando tkinter 
+# tic tac toe-game
+Juego de tic tac toe
+Juego de tic tac toehecho python usando tkinter 
